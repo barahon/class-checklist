@@ -1,8 +1,9 @@
 ## Class Checklist for Students
 
-Here's your checklist. If you want a discursive list, with explanations,
+Here's your checklist for the *Git-under-the-Hood workshop*. If you want a discursive list, with explanations,
 [it's here](https://docs.google.com/document/d/1eQr6fFiZPGYNc2DSWdA1s5fS0nU5midRgpaZBttD49E/edit?usp=sharing).
 
+If you think something's missing, or you can say something better, fork this repo, make your fix, and issue a pull request.
 
 - The computer you'll bring
 
@@ -61,7 +62,7 @@ Here's your checklist. If you want a discursive list, with explanations,
 
 - Networking
 
-  + ```~/.ssh/``` is set up so ***you are not prompted for a password*** for this
+  + ```~/.ssh/``` is set up so ***you are not prompted for a password*** for this command:
 
   ```bash
   ssh localhost
