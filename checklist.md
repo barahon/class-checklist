@@ -17,7 +17,7 @@ If you think something's missing, or you can say something better, fork this rep
   tree
   ```
 
-  + use some, installed programming editor (vi, emacs, gedit, atom, ...) to write and run a simple shell script
+  + use some, installed, programming editor (vi, emacs, gedit, atom, ...) to write and run a simple shell script
 
   ```bash
   $ cat hello
