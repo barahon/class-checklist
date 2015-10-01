@@ -3,7 +3,9 @@
 Here's your checklist for the *Git-under-the-Hood workshop*. If you want a discursive list, with explanations,
 [it's here](https://docs.google.com/document/d/1eQr6fFiZPGYNc2DSWdA1s5fS0nU5midRgpaZBttD49E/edit?usp=sharing).
 
-If you think something's missing, or you can say something better, fork this repo, make your fix, and issue a pull request.
+If you think something's missing, or you can say something better, don't just be a 
+קיביצער
+: fork this repo, make your fix, and issue a pull request.
 
 - The computer you'll bring
 
