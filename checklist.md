@@ -13,10 +13,11 @@ If you think something's missing, or you can say something better, don't just be
 
   + ```uname -a``` says you have Linux or some other Unix-flavored OS.
 
-  + **tree(1)** is installed
+  + **tree(1)** and **sha1sum(1)** are installed
 
   ```bash
   tree
+  sha1sum /etc/passwd
   ```
 
   + use some, installed, programming editor (vi, emacs, gedit, atom, ...) to write and run a simple shell script
