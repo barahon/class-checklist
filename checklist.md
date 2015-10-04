@@ -70,3 +70,8 @@ If you think something's missing, or you can say something better, don't just be
   ```bash
   ssh localhost
   ```
+
+- Overheads
+
+  + install Flash to see them on your own computer. Go to Prezi.com and watch any presentation to verify.
+
