@@ -11,7 +11,7 @@ If you think something's missing, or you can say something better, don't just be
 
   + bring up a terminal window running bash/dash/zsh/ksh and type basic, shell commands
 
-  + ```uname -a``` says you have Linux or some other Unix-flavored OS.
+  + `uname -a` says you have Linux or some other Unix-flavored OS.
 
   + **tree(1)** and **sha1sum(1)** are installed
 
@@ -32,7 +32,7 @@ If you think something's missing, or you can say something better, don't just be
 
 - git
 
-  + ```git version``` shows >= 1.9.1
+  + `git version` shows >= 1.9.1
 
   + you have colorized git output
 
@@ -41,7 +41,7 @@ If you think something's missing, or you can say something better, don't just be
   git log
   ```
 
-  + you have the alias ```git lol```
+  + you have the alias `git lol`
 
   ```bash
   git config --global alias.lol ’log --graph --decorate --oneline --all’
@@ -65,7 +65,7 @@ If you think something's missing, or you can say something better, don't just be
 
 - Networking
 
-  + ```~/.ssh/``` is set up so ***you are not prompted for a password*** for this command:
+  + `ssh/` is set up so ***you are not prompted for a password*** for this command:
 
   ```bash
   ssh localhost
