@@ -44,7 +44,7 @@ If you think something's missing, or you can say something better, don't just be
   + you have the alias `git lol`
 
   ```bash
-  git config --global alias.lol ’log --graph --decorate --oneline --all’
+  git config --global alias.lol 'log --graph --decorate --oneline --all'
   ```
 
 - GitHub
