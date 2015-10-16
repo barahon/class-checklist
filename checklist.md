@@ -56,7 +56,7 @@ If you think something's missing, or you can say something better, don't just be
   git clone https://github.com/jsh/git-under-the-hood
   git clone https://github.com/jsh/git-scratch
   cd git-scratch
-  make install
+  sudo make install
   ```
 
   + create a repo on GitHub
