@@ -20,7 +20,7 @@ If you think something's missing, or you can say something better, don't just be
   sha1sum /etc/passwd
   ```
 
-  + use some, installed, programming editor (vi, emacs, gedit, atom, ...) to write and run a simple shell script
+  + use a programming editor (vi, emacs, gedit, atom, ...) to write and run a simple shell script
 
   ```bash
   $ cat hello
@@ -74,4 +74,4 @@ If you think something's missing, or you can say something better, don't just be
 - Overheads
 
   + install Flash to see them on your own computer. Go to Prezi.com and watch any presentation to verify.
-
+  + [Jeff Haemer at Prezi](https://prezi.com/user/lmn5jzymwcrh/)
